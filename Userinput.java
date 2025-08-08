@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Userinput {
     public static void main(String[] args){
